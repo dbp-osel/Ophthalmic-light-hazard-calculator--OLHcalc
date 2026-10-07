@@ -1,6 +1,6 @@
 General Information
 
-This Windows app performs calculations for ophthalmic light hazard assessment of a device with one or more light sources irradiating the eye, based on the logic and formulas provided in ISO 15004-2:2024.
+This Windows app performs calculations for ophthalmic light hazard assessment of a device with one or more light sources irradiating the eye, based on the definitions, logic, and formulas provided in ISO 15004-2:2024.
 
 
 
